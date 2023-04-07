@@ -1,0 +1,5 @@
+﻿  Project 1.cpp
+c:\users\pourya\desktop\project 1\project 1\project 1.cpp(459): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\pourya\desktop\project 1\project 1\project 1.cpp(652): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+c:\users\pourya\desktop\project 1\project 1\project 1.cpp(109): warning C4715: 'start': not all control paths return a value
+  Project 1.vcxproj -> C:\Users\Pourya\Desktop\Project 1\Debug\Project 1.exe
