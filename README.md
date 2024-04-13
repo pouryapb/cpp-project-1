@@ -1,0 +1,3 @@
+# Semifinal project of beginners programming course in University of Guilan
+
+I dont remember the details of this project...
